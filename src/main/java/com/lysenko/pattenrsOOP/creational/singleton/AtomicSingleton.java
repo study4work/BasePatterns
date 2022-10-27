@@ -1,5 +1,6 @@
 package com.lysenko.pattenrsOOP.creational.singleton;
 
+// Singleton
 public class AtomicSingleton {
     private static volatile AtomicSingleton instanse;
     private int number;
